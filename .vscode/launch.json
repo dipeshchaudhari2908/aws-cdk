@@ -17,6 +17,7 @@
         "<node_internals>/**"
       ],
       // Saves some button-pressing latency on attaching
+      //false button
       "stopOnEntry": false
     }
   ]
